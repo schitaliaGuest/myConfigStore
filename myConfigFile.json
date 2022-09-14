@@ -1,0 +1,6 @@
+{
+  "myfeature": {
+    "enabled": true
+    "threshold": 20
+  }
+}
