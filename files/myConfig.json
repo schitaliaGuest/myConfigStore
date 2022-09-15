@@ -1,6 +1,6 @@
 {
   "myfeature": {
-    "enabled": true
+    "enabled": true,
     "threshold": 20
   }
 }
