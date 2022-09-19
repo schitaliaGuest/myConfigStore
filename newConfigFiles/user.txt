@@ -1,0 +1,9 @@
+define User = {
+    name typeof string,
+    id typeof integer
+}
+
+let adminUser typeof User = {
+    name = 10,
+    id = 5
+}
