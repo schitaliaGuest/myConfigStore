@@ -1,9 +1,5 @@
-define User = {
-    name typeof string,
-    id typeof integer
-}
+let myvalue typeof integer = 10
 
-let adminUser typeof User = {
-    name = 10,
-    id = 5
+when (accountType == "PERSONAL") {
+    myvalue = 5
 }
