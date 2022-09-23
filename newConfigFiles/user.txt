@@ -1,5 +1,5 @@
 let myvalue typeof integer = 10
 
 when (accountType == "PERSONAL") {
-    myvalue = 99999
+    myvalue = 13454
 }
